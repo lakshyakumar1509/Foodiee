@@ -1,0 +1,133 @@
+body{
+  background-image: url(foodimg.jpg);
+  background-position: relative;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  color: white;
+}
+
+.Loginpage{
+  display: fixed;
+  align-items: center;
+  justify-content: center;
+}
+
+.Forgetpage{
+  
+  display: fixed;
+  align-items: center;
+  justify-content: center;
+}
+
+.Form{
+  background-color: rgba(255, 255, 255, 0.242);
+  margin-left: 15cm;
+  margin-top: 4cm;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 2%;
+  align-items: center;
+}
+
+.email{
+  margin-left: 1.8cm;
+}
+
+.email2{
+  margin-top: 20px;
+  margin-left: 0.3cm;
+}
+
+.new #qstn{
+  margin-left: px;
+  padding:15px;
+  color: black;
+}
+
+.new #new{
+  color:darkred;
+}
+
+.email #frgtpswrd{
+  color:rgb(215, 67, 97)
+}
+
+.Form #title{
+  font-size:35px;
+  font-weight: bold;
+  color: tomato;
+  margin-left: 50px;
+  padding-bottom: 50px;
+}
+
+.titlefp{
+  margin-left: 0.5cm;
+}
+
+.titlefp #ex{
+  font-size: 45px;
+  margin-left: 1.7cm;
+  color: tomato;
+}
+
+.Form #title1{
+  font-size:35px;
+  font-weight: bold;
+  color: tomato;
+  margin-left: 25px;
+  padding-bottom: 50px;
+}
+
+.Form #tb{
+  border-radius: 10px;
+  height: 30px;
+  width: 200px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.Form #tb1{
+  border-radius: 10px;
+  height: 30px;
+  width: 200px;
+  margin-left: -5px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.Form #li{
+  margin-left: 50px;
+  background-color: crimson;
+  margin-top: 35px;
+  border-radius: 15px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Form #li2{
+  margin-left: 49px;
+  background-color: crimson;
+  margin-top: 35px;
+  border-radius: 15px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input{
+  font-size: large;
+  size: 25px;
+  border-radius: 20%;
+  margin: auto;
+  margin-top: 10px;
+  height: 10px;
+  padding: 30px;
+}
